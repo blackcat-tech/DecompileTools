@@ -1,0 +1,2 @@
+反编译命令： apktool.bat d kt3.apk(要反编译的apk) kt(反编译后生成的文件)
+重新打包命令： apktool.bat b kt(要打包的文件夹) signed_kt.apk(生成的apk)
